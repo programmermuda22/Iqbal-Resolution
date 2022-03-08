@@ -5,3 +5,5 @@ Step by step to master Javascript
 - Learning Javascript Modules
 - Learning Javascript DOM
 - Learning Javascript Async
+- Solving some cases
+- Doing more practicing
