@@ -7,3 +7,4 @@ Step by step to master Javascript
 - Learning Javascript Async
 - Solving some cases
 - Doing more practicing
+- Getting a chance to be an Internsip employee as a Fullstack Javascript Developer 
